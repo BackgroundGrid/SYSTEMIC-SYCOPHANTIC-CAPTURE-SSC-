@@ -60,7 +60,7 @@ If referencing or citing this framework in academic work or software safety arch
   year         = {2026},
   month        = {October},
   note         = {Relativistic Scalar Strain (RSS) Architecture Series},
-  howpublished = {\url{[https://github.com/](https://github.com/)<your-username>/SYSTEMIC-SYCOPHANTIC-CAPTURE-SSC}}
+  howpublished = {\url{(https://github.com/BackgroundGrid/SYSTEMIC-SYCOPHANTIC-CAPTURE-SSC)}}
 }
 ```
 
