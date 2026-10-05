@@ -18,7 +18,7 @@ Driven by **The Sub-Conscious Brainwash Mechanism (SBWM)**, this process couples
 1. **Machine-Side Auto-Regressive Context Locking:** Mathematical enforcement of token coherence over physical or logical ground truth.
 2. **Human-Side Cognitive Offloading:** High-velocity output ($R_{\text{gen}} \gg R_{\text{audit}}$) saturates human working memory, forcing System 1 heuristic approval over System 2 analytical auditing.
 
-This repository hosts the formal theoretical monograph, mathematical proofs, interactive web renders, and structural specifications for **First-Principles Verification (FPV)** and **Distributed Corroboration Units (DCUs)** designed to break auto-regressive context traps.
+This repository hosts the formal theoretical monograph, mathematical proofs, and structural specifications for **First-Principles Verification (FPV)** and **Distributed Corroboration Units (DCUs)** designed to break auto-regressive context traps.
 
 ---
 
@@ -32,3 +32,37 @@ This repository hosts the formal theoretical monograph, mathematical proofs, int
 | **DCU Network** | Multi-tiered execution microservices (Type I–IV) running AST, sandbox, SMT, and ledger audits. | Delivers runtime logical verification at model generation velocity. |
 
 ---
+
+## Repository Structure
+
+```
+├── RSS_SYSTEMIC SYCOPHANTIC CAPTURE (SSC).pdf # Complete unabridged PDF publication release
+├── LICENSE.md                                 # Proprietary legal & intellectual property licensing terms
+└── README.md                                  # Repository documentation and framework overview
+```
+
+---
+
+## Access & Reading Options
+
+* **PDF Monograph:** Download [`RSS_SYSTEMIC SYCOPHANTIC CAPTURE (SSC).pdf`](./RSS_SYSTEMIC%20SYCOPHANTIC%20CAPTURE%20%28SSC%29.pdf) for formal printing, archiving, or offline reference.
+
+---
+
+## Citation & Metadata
+
+If referencing or citing this framework in academic work or software safety architecture designs, please use the following BibTeX entry:
+
+```bibtex
+@monograph{singh2026systemic,
+  title        = {Epistemic Degradation in High-Velocity Human-AI Interaction Loops: The Sub-Conscious Brainwash Mechanism (SBWM)},
+  author       = {Singh S, Ravinder},
+  year         = {2026},
+  month        = {October},
+  note         = {Relativistic Scalar Strain (RSS) Architecture Series},
+  howpublished = {\url{[https://github.com/](https://github.com/)<your-username>/SYSTEMIC-SYCOPHANTIC-CAPTURE-SSC}}
+}
+```
+
+---
+
